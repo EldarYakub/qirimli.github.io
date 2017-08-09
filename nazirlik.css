@@ -1,0 +1,240 @@
+body{
+	margin:0;
+	padding:0;
+}
+.verh{
+	/*background: green;*/
+	width: 1350px;
+	height: 250px;
+	margin: 0;
+	padding: 0;
+}
+.verh1{
+	width: 1140px;
+	height: 40px;
+	margin: 0 auto;
+	padding: 7px 20px 7px 20px;
+    border-width: 2px 2px 2px;
+    border-style: none solid solid;
+    border-color: #c1bbbb #c1bbbb #c1bbbb;
+    border-image: initial;
+    border-top: none;
+    border-radius: 0px 0px 5px 5px;
+}
+.verh1 img{
+	float: right;
+	margin: 0px;
+	padding: 0;
+	margin-right: 10px;
+}
+.verh2{
+	/*background: red;*/
+	width: 1350px;
+	height: 90px;
+	padding: 25px 0 0;
+}
+.gerb{
+	/*background: blue;*/
+	width: 90px;
+	height: 90px;
+	float: left;
+}
+.gerbmain{
+	/*background: black;*/
+	width: 652px;
+	height: 90px;
+	position: relative;
+    min-height: 1px;
+    padding-left: 15px;
+    padding-right: 15px;
+    margin: auto 584px auto 84px;
+}
+.textlogo{
+
+	width: 500px;
+	height: 90px;
+	float: right;
+}
+.textlogo1{
+	text-transform: uppercase;
+    font-size: 18px;
+	color: #333;
+	font-family: Georgia,serif;
+}
+.textlogo2{
+	font-size: 0.777778rem;
+    line-height: 1.111111rem;
+	color: #333;
+	font-family: Georgia,serif;
+	line-height: 0px;
+	font-size: 14px;
+}
+.secmen{
+
+	width: 1350px;
+	height: 50px;
+	margin: 30px 0 0 0 ;
+	border-top: 2px #c1bbbb solid;
+    border-bottom: 2px solid #c1bbbb;
+}
+.secmen1{
+	margin: 13px 43px; /* Обнуляем значение отступов */
+    padding: 4px; /* Значение полей */
+}
+.secmen1 li{
+	display: inline;
+	margin-left: 39px;
+	margin-right: 39px; /* Отступ слева */
+    padding: 16px; /* Поля вокруг текста */
+}
+.submenu{
+
+}
+.shrift{
+	text-decoration: none;
+	color: #2f3f60!important;
+    outline: 0;
+    font-family: Georgia,serif;
+    font-size: 14px;
+    line-height: 0px;
+	text-transform: uppercase;
+}
+.glnew{
+
+	margin: 5px auto;
+	width: 1140px;
+	height: 4850px;
+	border-bottom: 2px solid #c1bbbb;
+}
+.podval{
+
+	width: 1350px;
+	height: 250px;
+	margin-top: 15px;
+	border-top: 2px solid #c1bbbb; 
+}
+.niyet{
+	float: right;
+	padding: 10px;
+	margin-right: 100px;
+}
+.slov p{
+	color: #2f3f60!important;
+    outline: 0;
+    font-family: Georgia,serif;
+	font-size: .9999999977777778rem;
+    line-height: 1.111111111111111rem;
+    text-align: center;
+}
+.video{
+
+	width: 350px;
+	height: 290px;
+	float: right;
+	margin: 10px auto;
+	border-bottom: 2px solid #c1bbbb;
+}
+.video1{
+
+	width: 350px;
+	height: 50px;
+	margin: 0 auto;
+}
+.video1 a{
+	text-decoration: none;
+	text-align: center;
+	font-size: 14px;
+    line-height: 40px;
+    color: #333;
+    text-transform: uppercase;
+    letter-spacing: .1em;
+}
+.news{
+
+	width: 350px;
+	height: 615px ;
+	float: right;
+}
+.data1{
+	padding-left: 20px;
+    border-left: 3px solid #fc0;
+    font-size: .8777777777777778rem;
+    line-height: 1.111111111111111rem;
+    color: #333;
+    font-family: Georgia,serif;
+}
+span {
+    position: relative;
+    display: inline-block;
+    top: 2px;
+    width: 40px;
+    height: 40px;
+    color: #fc0;
+    font-style: italic;
+    font-weight: 700;
+    font-size: 24px;
+    line-height: 36px;
+    text-align: center;
+    border: 2px solid #fc0;
+    border-radius: 50%;
+    margin-right: 15px;
+}
+.rog{
+	margin: 0px 579px;
+}
+.rui{
+	float: left;
+	margin-top: -240px;
+	margin-left: 75px;
+}
+.slov{
+
+	float: right;
+	width: 450px;
+	height: 200px;
+	margin-top: -229px;
+	margin-right: 20px;
+}
+.slov p{
+	color: #2f3f60!important;
+    outline: 0;
+    font-family: Georgia,serif;
+	font-size: .9999999977777778rem;
+    line-height: 1.111111111111111rem;
+    text-align: center;
+}
+.glnew h2{
+	width: 600px;
+    text-align: center;
+    font-family: Georgia,serif;
+    color: #333;
+    line-height: 2.111111111111111rem;
+    text-transform: uppercase;
+ }
+ .nazir{
+
+    width: 775px;
+    height: 450px;
+    float: left;
+    border-bottom: 3px solid #c1bbbb;
+ }
+ .nazir h3{
+ 	width: 600px;
+    text-align: center;
+    font-family: Georgia,serif;
+    color: #333;
+    line-height: 2.111111111111111rem;
+    text-transform: uppercase;
+     border-bottom: 3px solid #fc0;
+ }
+ .nazir h4{
+ 	float: right;
+ 	width: 300px;
+ 	text-align: center;
+    font-family: Georgia,serif;
+    color: #333;
+    line-height: 2.111111111111111rem;
+    text-transform: uppercase;
+     border-bottom: 3px solid blue;
+     margin-right: 100px;
+ }
